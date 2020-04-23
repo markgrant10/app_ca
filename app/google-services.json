@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618968338353",
+    "firebase_url": "https://mobile-d3fb3.firebaseio.com",
+    "project_id": "mobile-d3fb3",
+    "storage_bucket": "mobile-d3fb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618968338353:android:3aa63648f9b386f5b53790",
+        "android_client_info": {
+          "package_name": "org.wit.placemark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618968338353-lblt0i5iiiv8t90211b7ufvcp4oj42fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LXH7KBBp6RQkPxBDFMoVIYGRzCSNqZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618968338353-lblt0i5iiiv8t90211b7ufvcp4oj42fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
